@@ -3,13 +3,6 @@
 #### I am Korean.
 #### I am Chae-Sung Lim who is dreaming of becoming a UI UX designer.
 
-### 👋 Technical Stack
-### Front-end
-+ Flutter
-+ Vue.js
-### UI UX
-+ Figma
-
 <!--
 **pan3800/pan3800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
