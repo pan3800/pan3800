@@ -1,5 +1,6 @@
 ### 👋 Introduce yourself
 #### Hello. Nice to meet you.
+#### I am Korean.
 #### I am Chae-Sung Lim who is dreaming of becoming a UUX designer.
 
 ### 👋 Technical Stack
