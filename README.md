@@ -4,7 +4,9 @@
 #### I am Chae-Sung Lim who is dreaming of becoming a UI UX designer.
 
 ### 👋 Technical Stack
+### Front-end
 #### Flutter 
+### UI UX
 #### Figma
 
 <!--
