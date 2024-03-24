@@ -1,6 +1,10 @@
 #### Hello. Nice to meet you.👋
 #### I am Chae-Sung Lim who is dreaming of becoming a UUX designer.
 
+### Technical Stack
+#### Flutter 
+#### Figma
+
 <!--
 **pan3800/pan3800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
