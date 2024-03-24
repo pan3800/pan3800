@@ -5,7 +5,7 @@
 
 ### 👋 Technical Stack
 ### 👉 Front-end
-#### Flutter 
++ Flutter 
 ### 👉 UI UX
 #### Figma
 
