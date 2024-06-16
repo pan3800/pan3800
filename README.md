@@ -2,6 +2,9 @@
 #### 안녕하세요.
 #### 저는 iOS 개발자를 꿈을 꾸고 있는 임채성입니다.
 
+### 기술스택
+#### Swift, iOS 
+
 
 <!--
 **pan3800/pan3800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
