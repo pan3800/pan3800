@@ -1,7 +1,7 @@
-### 👋 Introduce yourself
-#### Hello. Nice to meet you.
-#### I am Korean.
-#### I am Chae-Sung Lim who is dreaming of becoming a UI UX designer.
+### 👋 자기소개
+#### 안녕하세요.
+#### 저는 iOS 개발자를 꿈을 꾸고 있는 임채성입니다.
+
 
 <!--
 **pan3800/pan3800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
