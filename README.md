@@ -3,7 +3,7 @@
 + 저는 iOS Swift 개발자를 꿈을 꾸고 있는 임채성입니다.
 
 ### 👋 기술스택
-+ iOS, Xcode, Swift  
++ iOS, Xcode, Swift, SwiftUI  
 
 
 <!--
